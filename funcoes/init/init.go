@@ -8,5 +8,4 @@ func init() {
 
 func main() {
 	fmt.Println("Main...")
-
 }
